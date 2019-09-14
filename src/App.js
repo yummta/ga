@@ -24,7 +24,7 @@ function App() {
         `}
       />
 
-      <h1 css={{}}>Gaaaaaa</h1>
+      <h1 css={{ opacity: 0.5 }}>Gaaaaaa</h1>
     </div>
   );
 }
